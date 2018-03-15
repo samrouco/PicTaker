@@ -1,0 +1,18 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "SamTwitterBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "readline": "^1.3.0",
+    "request": "^2.85.0",
+    "twit": "^2.2.9"
+  }
+}
