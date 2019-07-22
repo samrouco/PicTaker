@@ -1,4 +1,4 @@
-console.log("Stalk bot running");
+console.log("PicTaker running");
 
 //Enviroment setup (using and config)
 var Twit = require('twit');
